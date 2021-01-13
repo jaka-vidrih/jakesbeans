@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FakeBook</title>
+    <style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #DC143C;} /* Crimson */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+
+</head>
+<body>
+        <h2>Jaka Vidrih</h2>
+        <h4>While I turn, <br>I see and learn</h4>
+        <img src="https://cdn.cnn.com/cnnnext/dam/assets/180907121340-elon-musk-joe-rogan-smoking.jpg" alt="jaka" width="540" height="300">
+<p>
+        <button class="button button1">red pill</button>
+        or
+        <button class="button button2">blue pill</button>?
+</p>
+<p><a href="https://www.facebook.com/jaka.vidrih">Visit my actual FB site</a>
+</p>
+<p>
+        <strong>Mesto: </strong>Ljubljana<br>
+        <strong>Starost: </strong>41<br>
+        <strong>Izobrazba: </strong> Ekonomist<br>
+        <strong>Hobiji:</strong><br>
+        neprestano ucenje<br>
+        lenarjenje s psicko Javo<br>
+        kolesarjenje
+</p>
+
+</body>
+
+</html>
